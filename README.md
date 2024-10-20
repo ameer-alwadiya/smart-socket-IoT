@@ -16,7 +16,10 @@ Designed a local site to wirelessly control the state of a socket (on/off) with 
 </p>
 
 
-https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/8a05110f-ce6f-44f8-b409-70b19a565b95
+<div align="center">
 
+  [Video 1](https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/8a05110f-ce6f-44f8-b409-70b19a565b95)
 
-https://github.com/ameer-alwadiya/smart-socket-IoT/assets/127532790/6026f290-3963-4f61-853b-9ac8a52b5763
+  [Video 2](https://github.com/ameer-alwadiya/smart-socket-IoT/assets/127532790/6026f290-3963-4f61-853b-9ac8a52b5763)
+
+</div>
