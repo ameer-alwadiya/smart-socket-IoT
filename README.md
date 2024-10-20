@@ -2,12 +2,17 @@
 
 Designed a local site to wirelessly control the state of a socket (on/off) with a timer delay using ESP8266 and ESP32. 
 
-https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/f8f102bf-555e-4581-8519-48cc36a62e6d
+<div align="center">
 
-<div style="display: flex; justify-content: center;">
-    <img width="1057" alt="Screenshot 2024-10-19 at 12 05 25 PM" src="https://github.com/user-attachments/assets/b8f1f235-177c-4758-963f-d30f7539571d" style="margin-right: 20px;">
-    <img width="536" alt="Screenshot 2024-10-19 at 12 05 05 PM" src="https://github.com/user-attachments/assets/9f60b7dd-fbd1-4b23-bdc6-c33d3a8c9683">
+  [Video](https://github.com/ameer-alwadiya/real-time-accelerometer/assets/127532790/f8f102bf-555e-4581-8519-48cc36a62e6d)
+
 </div>
+
+<p align="center">
+  <img width="1057" alt="Screenshot 2024-10-19 at 12 05 25 PM" src="https://github.com/user-attachments/assets/b8f1f235-177c-4758-963f-d30f7539571d">
+  <img width="536" alt="Screenshot 2024-10-19 at 12 05 05 PM" src="https://github.com/user-attachments/assets/9f60b7dd-fbd1-4b23-bdc6-c33d3a8c9683">
+</p>
+
 
 
 <img width="536" alt="Screenshot 2024-10-19 at 12 04 53 PM" src="https://github.com/user-attachments/assets/8f7464be-9022-4884-b645-449a34e48573">
