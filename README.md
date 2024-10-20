@@ -4,10 +4,10 @@ Designed a local site to wirelessly control the state of a socket (on/off) with 
 
 <div align="center">
 
-    [Video 2](https://github.com/ameer-alwadiya/smart-socket-IoT/assets/127532790/6026f290-3963-4f61-853b-9ac8a52b5763)
-
+  [Video 2](https://github.com/ameer-alwadiya/smart-socket-IoT/assets/127532790/6026f290-3963-4f61-853b-9ac8a52b5763)
 
 </div>
+
 
   <img width="1057" alt="Screenshot 2024-10-19 at 12 05 25 PM" src="https://github.com/user-attachments/assets/b8f1f235-177c-4758-963f-d30f7539571d">
 
