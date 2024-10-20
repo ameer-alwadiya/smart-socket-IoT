@@ -8,14 +8,16 @@ Designed a local site to wirelessly control the state of a socket (on/off) with 
 
 </div>
 
-<p align="center">
   <img width="1057" alt="Screenshot 2024-10-19 at 12 05 25 PM" src="https://github.com/user-attachments/assets/b8f1f235-177c-4758-963f-d30f7539571d">
+
+<p align="center">
+  <img width="536" alt="Screenshot 2024-10-19 at 12 04 53 PM" src="https://github.com/user-attachments/assets/8f7464be-9022-4884-b645-449a34e48573">
   <img width="536" alt="Screenshot 2024-10-19 at 12 05 05 PM" src="https://github.com/user-attachments/assets/9f60b7dd-fbd1-4b23-bdc6-c33d3a8c9683">
 </p>
 
 
 
-<img width="536" alt="Screenshot 2024-10-19 at 12 04 53 PM" src="https://github.com/user-attachments/assets/8f7464be-9022-4884-b645-449a34e48573">
+
 
 
 
